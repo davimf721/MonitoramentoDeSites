@@ -1,0 +1,9 @@
+31/03/2022 17:56:18 - https://www.alura.com.br- online:true
+31/03/2022 17:56:18 - https://random-status-code.herokuapp.com- online:false
+31/03/2022 17:56:19 - https://www.caelum.com.br- online:true
+31/03/2022 17:56:30 - https://www.alura.com.br- online:true
+31/03/2022 17:56:30 - https://random-status-code.herokuapp.com- online:false
+31/03/2022 17:56:31 - https://www.caelum.com.br- online:true
+31/03/2022 17:56:41 - https://www.alura.com.br- online:true
+31/03/2022 17:56:42 - https://random-status-code.herokuapp.com- online:true
+31/03/2022 17:56:42 - https://www.caelum.com.br- online:true
